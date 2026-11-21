@@ -9,7 +9,6 @@ Sistema desktop de gerenciamento de bibliotecas.
 - Figma (protótipos das telas)
 - Git e GitHub 
 
-
 Logins de teste: `helena` / `123456` (Bibliotecário) e `pedro` / `123456` (Atendente).
 
 
